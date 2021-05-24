@@ -1,10 +1,10 @@
 # UpDateTime
 
-<br>
 <h2>WHY?</h2>
 
 Since I'm using Linux on a Virtual Machine and since I almost never turn it off (choosing to save state instead), I was tired of updating system time over and over again.
-So, what was the most logical step? WRITTING A SCRIPT YEAH
+So, what was the most logical step? Well, writting a script of course.
+<br>
 Gonna turn this into a job (when I manage to learn how)
 
 <h1>Functionality</h1>
@@ -23,4 +23,4 @@ Gonna turn this into a job (when I manage to learn how)
     - If even one of them fails, a new system time and date is set
   - I've decided not to compare system's minutes with google's minutes to prevent failures, maybe I'll do that another time
 
-TESTED AND FULLY WORKING ON PARROT OS 4.11
+<h1><b>TESTED AND FULLY WORKING ON PARROT OS 4.11</b></h1>
