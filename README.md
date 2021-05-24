@@ -1,7 +1,8 @@
 # UpDateTime
 
+<br>
+<h2>WHY?</h2>
 <hr>
-<h1>WHY?</h1>
 <br>
  Since I'm using Linux on a Virtual Machine and since I almost never turn it off (choosing to save state instead), I was tired of updating system time over and over again.
  So, what was the most logical step? WRITTING A SCRIPT YEAH
