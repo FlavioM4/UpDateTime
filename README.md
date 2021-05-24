@@ -1,5 +1,5 @@
 # UpDateTime
-- WHY?
+WHY?
  Since I'm using Linux on a Virtual Machine and since I almost never turn it off (choosing to save state instead), I was tired of updating system time over and over again.
  So, what was the most logical step? WRITTING A SCRIPT YEAH
  Gonna turn this into a job (when I manage to learn how)
