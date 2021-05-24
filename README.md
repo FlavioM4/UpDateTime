@@ -2,14 +2,15 @@
 
 <br>
 <h2>WHY?</h2>
-<hr>
-<br>
- Since I'm using Linux on a Virtual Machine and since I almost never turn it off (choosing to save state instead), I was tired of updating system time over and over again.
- So, what was the most logical step? WRITTING A SCRIPT YEAH
- Gonna turn this into a job (when I manage to learn how)
- 
+
+Since I'm using Linux on a Virtual Machine and since I almost never turn it off (choosing to save state instead), I was tired of updating system time over and over again.
+So, what was the most logical step? WRITTING A SCRIPT YEAH
+Gonna turn this into a job (when I manage to learn how)
+
+<h1>Functionality</h1>
+
  - So, what does this do?
- Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. If you think this script could be better (because of course it could) please contact me.
+ <b>Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. If you think this script could be better (because of course it could) please contact me.</b>
   - The first step is declaring an indexed array so I can retrieve the month's number instead of its name (for setting the date)
   - It will then retrieve system's date and time
   - The next step is acessing Google's Website to retrieve the correct date and time
