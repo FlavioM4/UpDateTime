@@ -17,9 +17,9 @@ Gonna turn this into a job (when I manage to learn how)
   <li> The next step is acessing Google's Website, <b> using cURL </b>, to retrieve the correct date and time </li>
  <li> It is now time to format some values, in three steps: </li>
      <ol>
-      <li> First: Getting current month's number </li> 
-      <li>Second: Add 1 hour to the retrieved time, since I'm in Portugal </li>
-      <li>Third: Format the entire string to use as the "date --set=" command </li>
+      <li>Getting current month's number </li> 
+      <li>Add 1 hour to the retrieved time, since I'm in Portugal </li>
+      <li>Format the entire string to use as the "date --set=" command </li>
      </ol>
   <li>In the end, validations are made. I compare system's current time (day, month, year, hour): </li>
  <li>If those objects all match then nothing is made </li>
