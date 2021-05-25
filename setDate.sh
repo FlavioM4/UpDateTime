@@ -24,7 +24,7 @@ MN=$(echo $getdate | cut -d ' ' -f6 | cut -d ':' -f2 )
 SC=$(echo $getdate | cut -d ' ' -f6 | cut -d ':' -f3 )
 
 # Get month number from array
-MONTHNR=${MONTHS[$MONTH]}
+MONTHNR=${months[$MONTH]}
 
 # Set correct hour
 let rHR=$HR+1
