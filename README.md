@@ -10,7 +10,7 @@ Gonna turn this into a job (when I manage to learn how)
 <h1>Functionality</h1>
 
  <p> So, what does this do?
- <b>Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. If you think this script could be better (because of course it could) please contact me.</b></p>
+ <b>Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. Usually I develop in Python but I figured I would do this natively. This is my second shell script. If you think this script could be better (because of course it could) please contact me.</b></p>
   - The first step is declaring an indexed array so I can retrieve the month's number instead of its name (for setting the date)
   - It will then retrieve system's date and time
   - The next step is acessing Google's Website, <b> using cURL </b>, to retrieve the correct date and time
@@ -23,4 +23,6 @@ Gonna turn this into a job (when I manage to learn how)
     - If even one of them fails, a new system time and date is set
   - I've decided not to compare system's minutes with google's minutes to prevent failures, maybe I'll do that another time
 
-<h1><b>TESTED AND FULLY WORKING ON PARROT OS 4.11</b></h1>
+
+<h1>Tested in:</h1>
+<b>- Parrot OS 4.11 (100%)</b>
