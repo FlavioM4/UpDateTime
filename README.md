@@ -10,7 +10,7 @@ Gonna turn this into a job (when I manage to learn how)
 <h1>Functionality</h1>
 
  <p> So, what does this do?
- <b>Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. Usually I develop in Python but I figured I would do this natively. This is my second shell script. If you think this script could be better (because of course it could) please contact me.</b></p>
+ <b>Keep in mind I am not that much of a programmer, I do what I'm able to do with my resources. Usually I develop in Python but I figured I would do this natively. This is my second shell script. If you think it could be better (because of course it could) please contact me.</b></p>
  <ul type='disc'>
   <li> The first step is declaring an indexed array so I can retrieve the month's number instead of its name (for setting the date) </li>
  <li> It will then retrieve system's date and time </li>
@@ -28,4 +28,6 @@ Gonna turn this into a job (when I manage to learn how)
   </ul>
 
 <h1>Tested in:</h1>
-<b>- Parrot OS 4.11 (100%)</b>
+<ul type='disc'>
+ <li><b> Parrot OS 4.11 (100%)</b></li>
+</ul>
