@@ -31,6 +31,6 @@ echo $formatted
 if [ $cD != $DAY ] || [ $cH != $rHR ] || [ $cY != $YEAR ] || [ $cM != $MONTHNR ]
 then
 	echo "Retrieved times didn't match, updating System Time"
-	date --set=$formatted
+	date --set="$formatted"
 fi
 
